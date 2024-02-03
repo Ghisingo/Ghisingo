@@ -1,6 +1,6 @@
-### Hey, I am Aasish! 👋
+## Hey, I am Aasish! 👋
 
-# 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently doing my college project<br>🌱 I’m currently learning Django<br>💬 Ask me about Basic Designing<br>⚡ Fun fact: Chess tole champion
 --
 [![](https://visitcount.itsvg.in/api?id=Ghisingo&icon=5&color=4)](https://visitcount.itsvg.in)
